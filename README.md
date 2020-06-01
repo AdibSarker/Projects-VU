@@ -1,8 +1,8 @@
 # Projects-VU
-Here are some of my projects at the Vrije Universiteit Amsterdam
+A taste of my projects at the Vrije Universiteit Amsterdam
 <br />
-- Realized GARCH.ipynb is from a casestudy in the masters, where I estimated realized garch models. The realized GARCH models incorporate intra day prices to estimate/predict volatility. Furthermore we did some out-of-sample-performance and some backtesting.
-- In TSM_assign2.py is from the course Time Series Models, We estimated the local level model and used an algorithm  to estimate the mode of the model.
-- CCC&DCC_GARCH_Normal.ipynb, BEKK.ipynb, CCC&DCC_GARCH_Student-t.ipynb, Dataset.ipynb are python scripts for my thesis. I estimate multivariate GARCH models and I want to investigate the correlation between the DAX and CAC40 stock indices. Furthermore I want to see how well they perform out of sample to conclude which model is the best for prediction. 
+- Realized GARCH.ipynb is from a case study in the masters program Financial Econometrics, where I estimated Realized GARCH models under numerous error distributions. The realized GARCH models incorporate intra day prices in order to estimate/predict volatility. Furthermore, I initiated and performed out-of-sample performance tests and backtests.
+- TSM_assign2.py is from the course Time Series Models, again from the masters program, where State Space Models (SSM) have been estimated and Kalman Filters have been applied in order to estimate the unobserved states from the SSM.
+- CCC&DCC_GARCH_Normal.ipynb, BEKK.ipynb, CCC&DCC_GARCH_Student-t.ipynb and Dataset.ipynb are from my masters thesis. Multivariate GARCH models have been estimated, with the purpose of investigating the correlation between the DAX and CAC40 market indices. Furthermore, the out-of-sample performance has been analysed in order to conclude which model under which error distribtution entails the most accurate predictive ability. 
 <br />
-I am currently working on my thesis and not everything is finished yet. In the upcoming months, I will update my code regularly.  
+Update: My masters thesis is currently work in progress. In the upcoming months, I will update my code regularly.  
